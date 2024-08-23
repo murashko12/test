@@ -3,7 +3,7 @@ import React from 'react'
 const CompSix = () => {
   return (
     <div>
-      CompSix2
+      CompSix3
     </div>
   )
 }
